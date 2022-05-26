@@ -1,6 +1,6 @@
 '''
 
-this code amended from the repository on GitHub: https://github.com/Rickiarty/PDF_editor
+This code was amended from the repository on GitHub: https://github.com/Rickiarty/GUI_templates_for_Python
 
 '''
 
